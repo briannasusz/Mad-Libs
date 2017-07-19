@@ -1,0 +1,26 @@
+h1 {
+     margin-left: 1in;
+     margin-right: 1in;
+     font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+#Box {
+       margin-left: 1in;
+       margin-right: 1in;
+       background-color: #00ffa1;
+       padding: 25px;
+       width: 200px;
+       font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+#story {
+  display:none;
+}
+
+html {
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/22/c6/59/22c659d26e320a5efbd4295d0de48044.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
